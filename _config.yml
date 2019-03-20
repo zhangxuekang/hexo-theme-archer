@@ -1,10 +1,10 @@
 # ========== Profile ========== #
-# head
-avatar: /avatar/Loki.jpeg 
+# avatar
+avatar: /avatar/Loki.jpeg
 # author name
-author: zhangxk 
+author: zhangxk
 # signature
-signature: Stay hungry. Stay foolish 
+signature: Stay hungry. Stay foolish
 # SNS (you can custom the order)
 social:
   email: 
@@ -58,7 +58,7 @@ _404_image: '/intro/404-bg.jpg'
 
 # ========== Search ====暂不能用====== #
 algolia_search:
-  enable: true
+  enable: false
   hits:
     per_page: 10
   labels:
