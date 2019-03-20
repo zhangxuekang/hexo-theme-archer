@@ -42,9 +42,8 @@ about:
 SEO_title: zhangxk blog
 # keywords for site (good for SEO)
 SEO_keywords:
-  - html
+  - 张学康
   - javascript
-  - css
   - 前端
 # main title shown in header image
 main_title: zhangxk's blog
